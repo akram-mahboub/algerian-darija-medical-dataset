@@ -81,11 +81,10 @@ Preprocessing is intentionally light, so the data stays close to how patients ac
 
 | text | urgency | service |
 |---|---|---|
-| (chest pain, can't breathe) | `Urgent` | `Cardiology` |
-| (mild recurring headache for a week) | `Consultation` | `Neurology` |
-| (heavy bleeding, severe pain) | `Urgent` | `Gynecology` |
+| راني نلهث غير نمشي شوية، و الفشلة راهي دايرة فيا حالة | `Urgent` | `Cardiology` |
+|البارح مقدرتش كامل نرقد ووراسي قعد يوجع و نحس بالدوخة | `Consultation` | `Neurology` |
+| شربت الدوا لي كتبهولي و دارلي لاليغجي ، لحمي قاع تحرق, | `Urgent` | `Emergency Medicine` |
 
-> Replace these with a few real sentences from the dataset before publishing.
 
 ---
 
