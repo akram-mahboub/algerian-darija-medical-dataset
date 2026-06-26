@@ -1,0 +1,41 @@
+Algerian Darija Medical Triage Dataset
+Copyright (c) 2025 Akram Mahboub, Nasreddine Bramki, Amel Boustil
+
+This dataset is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+  - Share  — copy and redistribute the material in any medium or format
+  - Adapt  — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+The full legal text of CC BY 4.0 is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+To apply this license, place the full CC BY 4.0 legal code (copied from the
+URL above) in this file, or keep this notice alongside a LICENSE file that
+contains the full legal code.
+
+-----------------------------------------------------------------------
+Attribution notice (for reuse):
+
+  "Algerian Darija Medical Triage Dataset" by Akram Mahboub,
+  Nasreddine Bramki, and Amel Boustil is licensed under CC BY 4.0.
+  Source: https://github.com/akram-mahboub/algerian-darija-medical-dataset
+
+-----------------------------------------------------------------------
+Scope of this license:
+
+This license covers the dataset's annotations (urgency and service labels),
+its compilation, structure, and organization — the original contribution of
+the authors. A portion of the underlying symptom texts was collected from
+public sources; this license does not assert ownership over any third-party
+content that may remain subject to its original authors' rights. Personal
+identifying information has been removed. The dataset is provided for
+research purposes and is not a medical device.
